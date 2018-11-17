@@ -10,3 +10,5 @@ The best part?
 You just have to create the folder named as ../training-data/ and the trainig data will be automatically saved by the program when it runs.
 
 Enjoy.
+
+References:- www.pyimagesearch.com
